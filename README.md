@@ -1,2 +1,2 @@
 # Torre de Hanoi
-Código que número de discos como argumento e retorne a quantidade mínima de etapas necessárias para concluir o jogo.
+Código que recebe o número de discos como argumento e retorna a quantidade mínima de etapas necessárias para concluir o jogo.
