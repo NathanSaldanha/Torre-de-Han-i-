@@ -12,7 +12,7 @@ public class Main {
     public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Defina o número de discos: ");
-		int x = sc.nextInt();
-        metodo(x);
+		int discos = sc.nextInt();
+        metodo(discos);
     }
 }
